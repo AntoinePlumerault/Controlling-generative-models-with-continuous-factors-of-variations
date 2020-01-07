@@ -1,7 +1,7 @@
 # Controlling generative models with continuous factors of variations
 
 Official repository of the paper Plumerault et. al. (2019)
-(https://openreview.net/forum?id=H1laeJrKDB)
+(https://openreview.net/forum?id=H1laeJrKDB) (Code coming soon)
 
 ### abstract
 
