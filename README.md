@@ -18,7 +18,7 @@ If you use this code for your research, please site [our paper](https://openrevi
 This work aims at finding meaningfull directions in the latent space of generative models along which we can move to control precisely specific properties of the generated image like the position or scale of the object in the image. Our method does not require human annotations and is particularly well suited for the search of directions encoding simple transformations of the generated image, such as translation, zoom or color variations.
 
 <p align="center">
-  <img src="vis_abstract.png"/>
+  <img src="vis_abstract.jpg"/>
 </p>
 
 ## Installation
