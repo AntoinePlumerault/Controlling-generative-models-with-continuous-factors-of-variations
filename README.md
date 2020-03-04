@@ -49,7 +49,7 @@ We used `python 3.7`. The version of each package is reported in `requirements.t
 Models weights can be found on the following drive:
 https://drive.google.com/open?id=14mW_-13IGlIz_9nefLtVm-KOz87fLxui
 
-Place biggan weights files e.g. `biggan_128.h5` in the `/src/models/biggan_imagenet/weights` folder and the saliency model weights `final.pth` directly in the `src/models/saliency` folder.
+Put biggan weights files e.g. `biggan_128.h5` in the `./src/models/biggan_imagenet/weights/` folder and the saliency model weights `final.pth` directly in the `./src/models/saliency/` folder.
 
 ### Models and weights
 
