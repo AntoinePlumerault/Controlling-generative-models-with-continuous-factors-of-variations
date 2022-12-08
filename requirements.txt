@@ -1,7 +1,7 @@
 absl-py==0.8.1
 asn1crypto==1.2.0
 astor==0.8.0
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.13.2
 chardet==3.0.4
 conda==4.7.12
